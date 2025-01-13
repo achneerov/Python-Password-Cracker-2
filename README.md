@@ -75,6 +75,3 @@ Attempts to brute-force the password by generating combinations of the allowed c
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-```
-
-This `README.md` provides an overview of the project, including its purpose, features, requirements, usage, and important notes.
